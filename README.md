@@ -36,7 +36,8 @@ class QAEngineer:
 ## 🚀 About me
 Curiosity has always been my strongest learning tool. I naturally explore how things behave, ask questions and keep digging until I understand the whole picture.
 
-⚡Strengths:
+##⚡Strengths:
+
   🔍 Curiosity  
   🧩 Structured thinking  
   💡 Continuous learning  
